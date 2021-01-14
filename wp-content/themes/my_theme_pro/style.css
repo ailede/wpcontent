@@ -6,6 +6,8 @@ Template: customizr-pro
 Author: Administrator
 */
 /* Your awesome customization starts here */
+.tc-header.border-top { border-top-width: 0px !important; border-top-style: none !important }
+
 .ez-toc-list-level-3{
 	font-size:15px !important;
 }
@@ -621,3 +623,5 @@ span.aawp-product-shop:nth-child(2) {margin-left:5px;}
   .aawp table.aawp-table td.aawp-table-td-thumb-finance img {max-width:100px;max-height:30px;}
   .aawp table.aawp-table td.aawp-table-td-description {min-width:100px;}
 }
+
+
