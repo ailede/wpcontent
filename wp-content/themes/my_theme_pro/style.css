@@ -6,7 +6,7 @@ Template: customizr-pro
 Author: Administrator
 */
 /* Your awesome customization starts here */
-.tc-header.border-top { border-top-width: 0px !important; border-top-style: none !important }
+.tc-header.border-top { border-top-width: 0px !important; border-top-style: none !important ;height :auto !important }
 
 .ez-toc-list-level-3{
 	font-size:15px !important;
