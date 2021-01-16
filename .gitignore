@@ -23,3 +23,4 @@ wp-includes/certificates
 /wp-content/plugins/cdn-enabler/
 /wp-content/plugins/clearfy/
 /wp-content/plugins/robin-image-optimizer/
+/wp-content/cache/autoptimize/.htaccess
