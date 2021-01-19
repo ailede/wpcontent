@@ -1,0 +1,26 @@
+html div#conblock_div_id{
+    border: 4px double #c5c5c5 !important;
+    padding: 5px !important;
+}
+
+div#conblock_div_id p[class="conblock_block_para"],div#conblock_div_id form[class="conblock_block_form"]{
+    text-align: center;
+}
+
+div#conblock_div_id [placeholder]{
+    text-align: center;
+    padding: 10px;    
+}
+
+.conblock_div input[type="submit"]{
+    border:1px solid #c5c5c5;
+    margin-top: 5px;
+    padding: 10px;     
+}
+
+.conblock_icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
