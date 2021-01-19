@@ -3940,14 +3940,14 @@ var czrapp = czrapp || {};
                                     return;
                               }
                               czrapp.base.scriptLoadingStatus.flickity = czrapp.base.scriptLoadingStatus.flickity || $.Deferred();
-                              if ( $('head').find( '#czr-flickity' ).length < 1 ) {
-                                    $('head').append( $('<link/>' , {
-                                          rel : 'stylesheet',
-                                          id : 'czr-flickity',
-                                          type : 'text/css',
-                                          href :  'https://cdn.jsdelivr.net/gh/ailede/wpcontent@latest/wp-content/themes/customizr-pro/assets/front/css/flickity.min.css'
-                                    }) );
-                              }
+                              // if ( $('head').find( '#czr-flickity' ).length < 1 ) {
+                              //       $('head').append( $('<link/>' , {
+                              //             rel : 'stylesheet',
+                              //             id : 'czr-flickity',
+                              //             type : 'text/css',
+                              //             href :  'https://cdn.jsdelivr.net/gh/ailede/wpcontent@latest/wp-content/themes/customizr-pro/assets/front/css/flickity.min.css'
+                              //       }) );
+                              // }
                               $.ajax( {
                                     url : ( czrapp.localized.assetsPath + 'js/libs/flickity-pkgd.min.js'),
                                     cache : true,// use the browser cached version when availabl
