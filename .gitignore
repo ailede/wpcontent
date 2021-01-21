@@ -1,8 +1,10 @@
 *.php
 *.icloud
 *.xml
-.mo
-.gz
+*.mo
+*.gz
+*.po
+*.json
 /.idea/
 /wp-content/cache/blogs/
 /wp-content/cache/meta/
