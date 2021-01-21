@@ -1,6 +1,7 @@
 *.php
 *.icloud
 *.xml
+.mo
 /.idea/
 /wp-content/cache/blogs/
 /wp-content/cache/meta/
