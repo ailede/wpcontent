@@ -2,6 +2,7 @@
 *.icloud
 *.xml
 .mo
+.gz
 /.idea/
 /wp-content/cache/blogs/
 /wp-content/cache/meta/
