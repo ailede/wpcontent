@@ -6,11 +6,12 @@
 *.po
 *.json
 *.gz
+*.transient
 /.idea/
 /wp-content/cache/blogs/
 /wp-content/cache/meta/
 /wp-content/cache/supercache/
-/wp-content/cache/.htaccess
+*.htaccess
 /wp-content/cache/index.html
 
 
@@ -28,4 +29,3 @@ wp-includes/certificates
 /wp-content/plugins/cdn-enabler/
 /wp-content/plugins/clearfy/
 /wp-content/plugins/robin-image-optimizer/
-/wp-content/cache/autoptimize/.htaccess
