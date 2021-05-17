@@ -7,31 +7,7 @@ Author: Administrator
 */
 /* Your awesome customization starts here */
 
-
-
-
-.tc-grid-hover-move .grid__item {
-/*      height: 400px !important;  */
-}
-
-
-.tc-header.border-top { border-top-width: 0px !important; border-top-style: none !important ;height :auto !important }
-
-/* .ez-toc-heading-level-3 a{
-			color: #339966 !important;
-
-}
-.ez-toc-link{
-	color:red!important;
-}
-
-.ez-toc-page-1 {
-	color:red !important;
-} */
-
-h3{
-	color: #339966;
-}
+.tc-header.border-top { border-top-width: 0px !important; border-top-style: none !important ;height :auto !important } 
 #text-20{
 	margin-bottom:0px !important;
 }
@@ -48,15 +24,6 @@ h3{
 .header-bottom > span {
 	display:none !important;
 }
-
-#ez-toc-container{
-	width:100% !important;
-}
-
-
-h2,h3,h4,body,table>thead>tr>th {font-family:'Consolas','Noto Sans SC' !important;}
-h2 {color:#e10707 !important;width:100%;margin-bottom:1rem;}
-h3 {margin-bottom:1rem;}
 a {color:#e10707;}
 
 article .entry-content a {text-decoration:none;}
@@ -161,7 +128,7 @@ table.fixed {table-layout:fixed;}
 table.clear tr td {border:none !important;}
 table tr td ul {margin-bottom:0 !important;}
 
-table.shop {box-shadow:0px 2px rgba(0,0,0,0.12);table-layout:fixed;max-width:340px;border-width:0;margin-left:auto;margin-right:auto;}
+table.shop {box-shadow:0px 2px rgba(0,0,0,0.12);table-layout:fixed;max-width:340px;border-width:0;margin-left:auto;margin-right:auto;border:none!important}
 table.shop tr {text-align:center;border-bottom:2px #e10206 solid;}
 table.shop tr td {padding:5px 3px !important;font-weight:bold;text-align:center !important;border-width:0;border-top:none !important;}
 table.shop tr td a img {width:80%;}
@@ -394,11 +361,11 @@ emojis.face-with-head-bandage::before {content:'\01F915';}
 #cancel-comment-reply-link, .action-link, .btn-large, .btn-more, .caps, .comment-reply-link, .czr-overlay .overlay-content .nav__container nav, .nav__menu, .post-author__wrapper figure figcaption .action-link, .post-author__wrapper figure figcaption .comment-reply-link, .post-navigation .page-numbers, .post-navigation a, .post-section-title, .sidebar .widget-title, .tax__container a, .widget_calendar caption, .widget_calendar tfoot, .widget_categories li, button, label, input, table th {text-transform:none !important;}
 
 @media screen and (min-width:1025px) and (max-width:1279px) {.tc-sidebar.right {padding-left:1.5em;} .col-md-3 {-ms-flex:0 0 28%;flex:0 0 28%;max-width:28%;} .col-md-9 {-ms-flex:0 0 72%;flex:0 0 72%;max-width:72%;}}
-@media screen and (min-width:576px) {.container {max-width:528px;!important}} 
-@media screen and (min-width:768px) {.container {max-width:750px;!important}}
-@media screen and (min-width:992px) {.container {max-width:960px;} } 
-@media screen and (min-width:1200px)  {.container {max-width:1190px;!important}}
-@media screen and (min-width:1440px) {.container {max-width:1560px;!important}}
+@media screen and (min-width:576px) {.container {max-width:474px;!important}} 
+@media screen and (min-width:768px) {.container {max-width:663px;!important}}
+@media screen and (min-width:992px) {.container {max-width:847px;} } 
+@media screen and (min-width:1200px)  {.container {max-width:1062px;!important}}
+@media screen and (min-width:1440px) {.container {max-width:1399px;!important}}
 @media print {body * {display:none !important;} body:after {content:"";}}
 
 /** PC */
@@ -474,7 +441,7 @@ emojis.face-with-head-bandage::before {content:'\01F915';}
 /** Mobile */
 @media screen and (max-device-width:767px) {
 	/** Automatically adapt the font size */
-	body{line-height:1.5;font-size:.9em}@media (min-width:20em) and (max-width:40em){body{line-height:calc(1.5 + .15 * ((100vw - 20em)/ 20))}}@media (min-width:40em){body{line-height:1.65}}@media (min-width:20em) and (max-width:60em){body{font-size:calc(.9em + .0375 * ((100vw - 20em)/ 40))}}@media (min-width:60em){body{font-size:.9375em}}h1{font-size:1em}@media (min-width:20em) and (max-width:60em){h1{font-size:calc(1em + 1.48832 * ((100vw - 20em)/ 40))}}@media (min-width:60em){h1{font-size:2.48832em}}h2{font-size:1em}@media (min-width:20em) and (max-width:60em){h2{font-size:calc(1em + 1.0736 * ((100vw - 20em)/ 40))}}@media (min-width:60em){h2{font-size:2.0736em}}h3{font-size:1em}@media (min-width:20em) and (max-width:60em){h3{font-size:calc(1em + .728 * ((100vw - 20em)/ 40))}}@media (min-width:60em){h3{font-size:1.728em}}h4{font-size:1em}@media (min-width:20em) and (max-width:60em){h4{font-size:calc(1em + .44 * ((100vw - 20em)/ 40))}}@media (min-width:60em){h4{font-size:1.44em}}h5{font-size:1em}@media (min-width:20em) and (max-width:60em){h5{font-size:calc(1em + .2 * ((100vw - 20em)/ 40))}}@media (min-width:60em){h5{font-size:1.2em}}h6{font-size:1em}@media (min-width:20em) and (max-width:60em){h6{font-size:calc(1em + 0 * ((100vw - 20em)/ 40))}}@media (min-width:60em){h6{font-size:1em}}.display{font-size:1em}@media (min-width:20em) and (max-width:60em){.display{font-size:calc(1em + 4.15978 * ((100vw - 20em)/ 40))}}@media (min-width:60em){.display{font-size:5.15978em}}
+
 	
 	div.czr-wp-the-content div.pt-cv-wrapper div.pt-cv-content-item:last-child {padding-bottom:0;}
 	div.czr-wp-the-content div.pt-cv-ifield img.pt-cv-thumbnail {width:auto;height:75px;float:left;margin-right:10px;}
@@ -604,4 +571,190 @@ span.aawp-product-shop:nth-child(2) {margin-left:5px;}
   .aawp table.aawp-table td.aawp-table-td-description {min-width:100px;}
 }
 
+/*行间距设置*/
+p {
+    margin-bottom: 0.9em !important;
+	 margin-top:0em !important;
+}
+h3{
+	font-weight:300!important;
+	margin-bottom:0.8em!important;
+	margin-top:1em
+}
+h2{
+	font-weight:450 !important;
+	margin-bottom:1em!important;
+	margin-top:1.7em!important;
+}
+h1{
+	font-weight:600!important
+}
+h4{
+	font-weight :150 !important
+}
+body {
+	line-height: 1.2em !important;
+/* 	font-size: .9em */
+}
 
+@media (min-width:20em) and (max-width:40em) {
+	body {
+		line-height: calc(1.5 + .15 * ((100vw - 20em)/ 20))
+	}
+}
+
+@media (min-width:40em) {
+	body {
+		line-height: 1.65
+	}
+}
+/* 
+@media (min-width:20em) and (max-width:60em) {
+	body {
+		font-size: calc(.9em + .0375 * ((100vw - 20em)/ 40))
+	}
+}
+
+@media (min-width:60em) {
+	body {
+		font-size: .9375em
+	}
+} */
+
+h1 {
+	font-size: 1em 
+}
+
+@media (min-width:20em) and (max-width:60em) {
+	h1 {
+		font-size: calc(1em + 1.5 * ((100vw - 20em)/ 40))
+	}
+}
+
+@media (min-width:60em) {
+	h1 {
+		font-size: 2.5em
+	}
+}
+
+h2 {
+	font-size: 1em
+}
+
+@media (min-width:20em) and (max-width:60em) {
+	h2 {
+		font-size: calc(1em + 0.7 * ((100vw - 20em)/ 40))
+	}
+}
+
+@media (min-width:60em) {
+	h2 {
+		font-size: 1.7em
+	}
+}
+
+h3 {
+	font-size: 1em
+}
+
+@media (min-width:20em) and (max-width:60em) {
+	h3 {
+		font-size: calc(1em + .3 * ((100vw - 20em)/ 40))
+	}
+}
+
+@media (min-width:60em) {
+	h3 {
+		font-size: 1.3em
+	}
+}
+
+h4 {
+	font-size: 1em
+}
+
+@media (min-width:20em) and (max-width:60em) {
+	h4 {
+		font-size: calc(1em + 0*((100vw - 20em)/ 40))
+	}
+}
+
+@media (min-width:60em) {
+	h4 {
+		font-size: 1em
+	}
+}
+
+h5 {
+	font-size: 1em
+}
+
+@media (min-width:20em) and (max-width:60em) {
+	h5 {
+		font-size: calc(1em  -0.3* ((100vw - 20em)/ 40))
+	}
+}
+
+@media (min-width:60em) {
+	h5 {
+		font-size: 0.7m
+	}
+}
+
+h6 {
+	font-size: 1em
+}
+
+@media (min-width:20em) and (max-width:60em) {
+	h6 {
+		font-size: calc(1em -0.5 * ((100vw - 20em)/ 40))
+	}
+}
+
+@media (min-width:60em) {
+	h6 {
+		font-size: 0.4em
+	}
+}
+
+/* .display {
+	font-size: 1em
+} */
+
+/* @media (min-width:20em) and (max-width:60em) {
+	.display {
+		font-size: calc(1em + 4.15978 * ((100vw - 20em)/ 40))
+	}
+}
+
+@media (min-width:60em) {
+	.display {
+		font-size: 5.15978em
+	}
+}
+ */
+.ez-toc-container{
+	margin-bottom:0px!important
+}
+.grid .tc-content{
+	padding-top:0em !important;
+	padding-bottom:1em !important
+}
+div#ez-toc-container{
+	border: 1px solid #000!important
+}
+.entry-title{
+	margin-top: 0px !IMPORTANT;
+    TEXT-ALIGN: center !important;
+}
+h1 ,h2,h3,h4,h5,h6{
+	color:red!important
+}
+.pt-cv-content{
+	font-size: 14px!important;
+   line-height: 1em !important;
+}
+h4.pt-cv-title {
+		font-size: 18px!important;
+
+}
