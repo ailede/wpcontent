@@ -7,6 +7,14 @@ Author: Administrator
 */
 /* Your awesome customization starts here */
 
+@font-face !important{
+	font-family: 'Pacifico';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Pacifico Regular'), local('Pacifico-Regular'), url(https://cdn.jsdelivr.net/gh/ailede/wpcontent@latest/wp-content/themes/customizr-pro/assets/shared/fonts/customizr/customizr.woff2) format('woff2');
+	font-display: swap;
+}
+
 .tc-header.border-top { border-top-width: 0px !important; border-top-style: none !important ;height :auto !important }
 #text-20{
 	margin-bottom:0px !important;
@@ -755,9 +763,4 @@ h1 ,h2,h3,h4,h5,h6{
 }
 h4.pt-cv-title {
 	font-size: 18px!important;
-}
-@font-face {
-	font-family: 'Arvo';
-	font-display: auto;
-	src: local('Arvo'), url(https://cdn.jsdelivr.net/gh/ailede/wpcontent@latest/wp-content/themes/customizr-pro/assets/shared/fonts/customizr/customizr.woff2) format('woff2');
 }
