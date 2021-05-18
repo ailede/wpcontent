@@ -7,7 +7,7 @@ Author: Administrator
 */
 /* Your awesome customization starts here */
 
-.tc-header.border-top { border-top-width: 0px !important; border-top-style: none !important ;height :auto !important } 
+.tc-header.border-top { border-top-width: 0px !important; border-top-style: none !important ;height :auto !important }
 #text-20{
 	margin-bottom:0px !important;
 }
@@ -349,7 +349,7 @@ footer#footer #footer-widget-area div p {padding-left:0.5rem;}
 footer#footer #footer-widget-area div p.text {color:#777;}
 footer#footer #footer-widget-area div p a {font-size:15px;line-height:36px;}
 footer#footer #footer-widget-area div hr {margin-top:15px;margin-bottom:15px;width:90%;border-bottom:0px;border-top:1px #888 solid;}
-	
+
 emojis.cow-face::before {content:'\01F42E';}
 emojis.slightly-smiling-face::before {content:'\01F642';}
 emojis.smiling-face-with-smiling-eyes::before {content:'\01F60A';}
@@ -361,9 +361,9 @@ emojis.face-with-head-bandage::before {content:'\01F915';}
 #cancel-comment-reply-link, .action-link, .btn-large, .btn-more, .caps, .comment-reply-link, .czr-overlay .overlay-content .nav__container nav, .nav__menu, .post-author__wrapper figure figcaption .action-link, .post-author__wrapper figure figcaption .comment-reply-link, .post-navigation .page-numbers, .post-navigation a, .post-section-title, .sidebar .widget-title, .tax__container a, .widget_calendar caption, .widget_calendar tfoot, .widget_categories li, button, label, input, table th {text-transform:none !important;}
 
 @media screen and (min-width:1025px) and (max-width:1279px) {.tc-sidebar.right {padding-left:1.5em;} .col-md-3 {-ms-flex:0 0 28%;flex:0 0 28%;max-width:28%;} .col-md-9 {-ms-flex:0 0 72%;flex:0 0 72%;max-width:72%;}}
-@media screen and (min-width:576px) {.container {max-width:474px;!important}} 
+@media screen and (min-width:576px) {.container {max-width:474px;!important}}
 @media screen and (min-width:768px) {.container {max-width:663px;!important}}
-@media screen and (min-width:992px) {.container {max-width:847px;} } 
+@media screen and (min-width:992px) {.container {max-width:847px;} }
 @media screen and (min-width:1200px)  {.container {max-width:1062px;!important}}
 @media screen and (min-width:1440px) {.container {max-width:1399px;!important}}
 @media print {body * {display:none !important;} body:after {content:"";}}
@@ -422,7 +422,7 @@ emojis.face-with-head-bandage::before {content:'\01F915';}
 	table.best-seller td.title {font-size:36px !important;color:#000 !important;padding-right:0 !important;}
 
 	.aawp-table-th-rating,.aawp-table-td-rating {display:none !important;}
-	
+
 	.su-row .su-column-size-1-2 {width:50% !important;float:left !important;}
 
 	.su-table table th.buy,.su-table table td.buy {display:none;}
@@ -442,7 +442,7 @@ emojis.face-with-head-bandage::before {content:'\01F915';}
 @media screen and (max-device-width:767px) {
 	/** Automatically adapt the font size */
 
-	
+
 	div.czr-wp-the-content div.pt-cv-wrapper div.pt-cv-content-item:last-child {padding-bottom:0;}
 	div.czr-wp-the-content div.pt-cv-ifield img.pt-cv-thumbnail {width:auto;height:75px;float:left;margin-right:10px;}
 	div.czr-wp-the-content div.pt-cv-ifield h4.pt-cv-title {white-space:nowrap;margin-bottom:3px !important;}
@@ -473,7 +473,7 @@ emojis.face-with-head-bandage::before {content:'\01F915';}
 	table.best-seller td.title {font-size:28px !important;color:#000 !important;padding-right:0 !important;}
 
 	aside.widget div.ads-adsense {margin:10px auto 40px auto;}
-	
+
 	.su-table table.su-table-default th {display:none;}
 	.su-table table.su-table-default th:first-child {display:table-cell;}
 	.su-table table.su-table-default td {display:none;}
@@ -531,50 +531,50 @@ span.aawp-product-shop:nth-child(2) {margin-left:5px;}
 .aawp-button-amazon:hover {background:linear-gradient(to bottom,#f5d78e,#eeb933) repeat scroll 0 0 rgba(0,0,0,0);}
 
 @media (max-width:799px) {
-  .aawp {font-size:14px !important;}
-  .aawp table.aawp-table td {border:none !important;}
-  .aawp table.aawp-table td:last-child {padding-bottom:2rem !important;border-bottom:1px #f7f8f9 solid !important;}
-  .aawp table.aawp-table tr:last-child td:last-child {border-bottom:none !important;}
-  .aawp table.aawp-table td.aawp-table-td-position {position:absolute;height:0;line-height:1px;color:#fff !important;padding:0 15px !important;border-top:15px solid #00bf08 !important;border-bottom:15px solid #00bf08 !important;border-right:15px solid transparent !important;top:0.6rem;left:-5px;}
-  .aawp table.aawp-table td.aawp-table-td-thumb {padding-bottom:0;}
-  .aawp table.aawp-table td.aawp-table-td-title {padding:1.2rem 0.5rem;line-height:1.2rem;}
-  .aawp table.aawp-table td.aawp-table-td-rating,.aawp table.aawp-table td.aawp-table-td-pricing,.aawp table.aawp-table td.aawp-table-td-description {padding-top:0 !important;padding-bottom:0 !important;}
-  .aawp table.aawp-table td.aawp-table-td-rating div.split {display:none;}
-  
-  .aawp table.aawp-table td.aawp-table-td-thumb-finance img {width:150px;max-height:40px;margin-bottom:1rem;}
+	.aawp {font-size:14px !important;}
+	.aawp table.aawp-table td {border:none !important;}
+	.aawp table.aawp-table td:last-child {padding-bottom:2rem !important;border-bottom:1px #f7f8f9 solid !important;}
+	.aawp table.aawp-table tr:last-child td:last-child {border-bottom:none !important;}
+	.aawp table.aawp-table td.aawp-table-td-position {position:absolute;height:0;line-height:1px;color:#fff !important;padding:0 15px !important;border-top:15px solid #00bf08 !important;border-bottom:15px solid #00bf08 !important;border-right:15px solid transparent !important;top:0.6rem;left:-5px;}
+	.aawp table.aawp-table td.aawp-table-td-thumb {padding-bottom:0;}
+	.aawp table.aawp-table td.aawp-table-td-title {padding:1.2rem 0.5rem;line-height:1.2rem;}
+	.aawp table.aawp-table td.aawp-table-td-rating,.aawp table.aawp-table td.aawp-table-td-pricing,.aawp table.aawp-table td.aawp-table-td-description {padding-top:0 !important;padding-bottom:0 !important;}
+	.aawp table.aawp-table td.aawp-table-td-rating div.split {display:none;}
+
+	.aawp table.aawp-table td.aawp-table-td-thumb-finance img {width:150px;max-height:40px;margin-bottom:1rem;}
 }
 
 @media (min-width:800px) {
-  .aawp table.aawp-table {display:table;table-layout:auto;width:100%;line-height:1.4;}
-  .aawp table.aawp-table thead {display:table-header-group;}
-  .aawp table.aawp-table thead tr {position:static;top:auto;left:auto;}
-  .aawp table.aawp-table tbody {display:table-row-group;}
-  .aawp table.aawp-table tr {display:table-row;}
-  .aawp table.aawp-table th,.aawp table.aawp-table td {display:table-cell;padding:10px !important;}
-  .aawp table.aawp-table td:before {display:none;content:"";width:auto;}
-  .aawp table.aawp-table thead {background:#fafafa;}
-  .aawp table.aawp-table th.aawp-table-th-position,.aawp table.aawp-table td.aawp-table-th-position,.aawp table.aawp-table th.aawp-table-td-position,.aawp table.aawp-table td.aawp-table-td-position {max-width:50px;font-weight:bold;white-space:nowrap;}
-  .aawp table.aawp-table th.aawp-table-th-thumb img,.aawp table.aawp-table td.aawp-table-th-thumb img,.aawp table.aawp-table th.aawp-table-td-thumb img,.aawp table.aawp-table td.aawp-table-td-thumb img {display:block;margin:0 auto;max-width:65px;max-height:65px;}
-  .aawp table.aawp-table th.aawp-table-th-rating .aawp-product-reviews,.aawp table.aawp-table td.aawp-table-th-rating .aawp-product-reviews,.aawp table.aawp-table th.aawp-table-td-rating .aawp-product-reviews,.aawp table.aawp-table td.aawp-table-td-rating .aawp-product-reviews {display:block;margin-top:5px;color:#666;font-size:12px;white-space:nowrap;}
-  .aawp table.aawp-table th.aawp-table-th-pricing,.aawp table.aawp-table td.aawp-table-th-pricing,.aawp table.aawp-table th.aawp-table-td-pricing,.aawp table.aawp-table td.aawp-table-td-pricing {white-space:nowrap;}
-  .aawp table.aawp-table th.aawp-table-th-pricing .aawp-product-price,.aawp table.aawp-table td.aawp-table-th-pricing .aawp-product-price,.aawp table.aawp-table th.aawp-table-td-pricing .aawp-product-price,.aawp table.aawp-table td.aawp-table-td-pricing .aawp-product-price {display:block;font-weight:bold;}
-  .aawp table.aawp-table th.aawp-table-th-pricing .aawp-product-price-old,.aawp table.aawp-table td.aawp-table-th-pricing .aawp-product-price-old,.aawp table.aawp-table th.aawp-table-td-pricing .aawp-product-price-old,.aawp table.aawp-table td.aawp-table-td-pricing .aawp-product-price-old {font-weight:400;}
-  .aawp table.aawp-table th.aawp-table-th-links,.aawp table.aawp-table td.aawp-table-th-links,.aawp table.aawp-table th.aawp-table-td-links,.aawp table.aawp-table td.aawp-table-td-links {white-space:nowrap;}
-  .aawp table.aawp-table th.aawp-table-th-title,.aawp table.aawp-table td.aawp-table-td-title {padding-left:20px !important;padding-right:20px !important;text-align:justify;}
+	.aawp table.aawp-table {display:table;table-layout:auto;width:100%;line-height:1.4;}
+	.aawp table.aawp-table thead {display:table-header-group;}
+	.aawp table.aawp-table thead tr {position:static;top:auto;left:auto;}
+	.aawp table.aawp-table tbody {display:table-row-group;}
+	.aawp table.aawp-table tr {display:table-row;}
+	.aawp table.aawp-table th,.aawp table.aawp-table td {display:table-cell;padding:10px !important;}
+	.aawp table.aawp-table td:before {display:none;content:"";width:auto;}
+	.aawp table.aawp-table thead {background:#fafafa;}
+	.aawp table.aawp-table th.aawp-table-th-position,.aawp table.aawp-table td.aawp-table-th-position,.aawp table.aawp-table th.aawp-table-td-position,.aawp table.aawp-table td.aawp-table-td-position {max-width:50px;font-weight:bold;white-space:nowrap;}
+	.aawp table.aawp-table th.aawp-table-th-thumb img,.aawp table.aawp-table td.aawp-table-th-thumb img,.aawp table.aawp-table th.aawp-table-td-thumb img,.aawp table.aawp-table td.aawp-table-td-thumb img {display:block;margin:0 auto;max-width:65px;max-height:65px;}
+	.aawp table.aawp-table th.aawp-table-th-rating .aawp-product-reviews,.aawp table.aawp-table td.aawp-table-th-rating .aawp-product-reviews,.aawp table.aawp-table th.aawp-table-td-rating .aawp-product-reviews,.aawp table.aawp-table td.aawp-table-td-rating .aawp-product-reviews {display:block;margin-top:5px;color:#666;font-size:12px;white-space:nowrap;}
+	.aawp table.aawp-table th.aawp-table-th-pricing,.aawp table.aawp-table td.aawp-table-th-pricing,.aawp table.aawp-table th.aawp-table-td-pricing,.aawp table.aawp-table td.aawp-table-td-pricing {white-space:nowrap;}
+	.aawp table.aawp-table th.aawp-table-th-pricing .aawp-product-price,.aawp table.aawp-table td.aawp-table-th-pricing .aawp-product-price,.aawp table.aawp-table th.aawp-table-td-pricing .aawp-product-price,.aawp table.aawp-table td.aawp-table-td-pricing .aawp-product-price {display:block;font-weight:bold;}
+	.aawp table.aawp-table th.aawp-table-th-pricing .aawp-product-price-old,.aawp table.aawp-table td.aawp-table-th-pricing .aawp-product-price-old,.aawp table.aawp-table th.aawp-table-td-pricing .aawp-product-price-old,.aawp table.aawp-table td.aawp-table-td-pricing .aawp-product-price-old {font-weight:400;}
+	.aawp table.aawp-table th.aawp-table-th-links,.aawp table.aawp-table td.aawp-table-th-links,.aawp table.aawp-table th.aawp-table-td-links,.aawp table.aawp-table td.aawp-table-td-links {white-space:nowrap;}
+	.aawp table.aawp-table th.aawp-table-th-title,.aawp table.aawp-table td.aawp-table-td-title {padding-left:20px !important;padding-right:20px !important;text-align:justify;}
 
-  .aawp table.aawp-table-jd td.aawp-table-td-rating,.aawp table.aawp-table-tmall td.aawp-table-td-rating,td.aawp-table-td-pricing {width:100px;}
-  .aawp table.aawp-table-jd td.aawp-table-td-links,.aawp table.aawp-table-tmall td.aawp-table-td-links {width:110px;}
-  .aawp table.aawp-table-amazon td.aawp-table-td-rating,.aawp table.aawp-table-amazon td.aawp-table-td-links {width:120px;}
+	.aawp table.aawp-table-jd td.aawp-table-td-rating,.aawp table.aawp-table-tmall td.aawp-table-td-rating,td.aawp-table-td-pricing {width:100px;}
+	.aawp table.aawp-table-jd td.aawp-table-td-links,.aawp table.aawp-table-tmall td.aawp-table-td-links {width:110px;}
+	.aawp table.aawp-table-amazon td.aawp-table-td-rating,.aawp table.aawp-table-amazon td.aawp-table-td-links {width:120px;}
 
-  .aawp table.aawp-table td.aawp-table-td-thumb-finance {width:160px;}
-  .aawp table.aawp-table td.aawp-table-td-thumb-finance img {max-width:100px;max-height:30px;}
-  .aawp table.aawp-table td.aawp-table-td-description {min-width:100px;}
+	.aawp table.aawp-table td.aawp-table-td-thumb-finance {width:160px;}
+	.aawp table.aawp-table td.aawp-table-td-thumb-finance img {max-width:100px;max-height:30px;}
+	.aawp table.aawp-table td.aawp-table-td-description {min-width:100px;}
 }
 
 /*行间距设置*/
 p {
-    margin-bottom: 0.9em !important;
-	 margin-top:0em !important;
+	   margin-bottom: 0.9em !important;
+	margin-top:0em !important;
 }
 h3{
 	font-weight:300!important;
@@ -594,7 +594,6 @@ h4{
 }
 body {
 	line-height: 1.2em !important;
-/* 	font-size: .9em */
 }
 
 @media (min-width:20em) and (max-width:40em) {
@@ -608,7 +607,7 @@ body {
 		line-height: 1.65
 	}
 }
-/* 
+
 @media (min-width:20em) and (max-width:60em) {
 	body {
 		font-size: calc(.9em + .0375 * ((100vw - 20em)/ 40))
@@ -619,10 +618,10 @@ body {
 	body {
 		font-size: .9375em
 	}
-} */
+}
 
 h1 {
-	font-size: 1em 
+	font-size: 1em
 }
 
 @media (min-width:20em) and (max-width:60em) {
@@ -717,11 +716,11 @@ h6 {
 	}
 }
 
-/* .display {
+.display {
 	font-size: 1em
-} */
+}
 
-/* @media (min-width:20em) and (max-width:60em) {
+@media (min-width:20em) and (max-width:60em) {
 	.display {
 		font-size: calc(1em + 4.15978 * ((100vw - 20em)/ 40))
 	}
@@ -732,7 +731,7 @@ h6 {
 		font-size: 5.15978em
 	}
 }
- */
+
 .ez-toc-container{
 	margin-bottom:0px!important
 }
@@ -745,16 +744,16 @@ div#ez-toc-container{
 }
 .entry-title{
 	margin-top: 0px !IMPORTANT;
-    TEXT-ALIGN: center !important;
+	TEXT-ALIGN: center !important;
 }
 h1 ,h2,h3,h4,h5,h6{
 	color:red!important
 }
 .pt-cv-content{
 	font-size: 14px!important;
-   line-height: 1em !important;
+	line-height: 1em !important;
 }
 h4.pt-cv-title {
-		font-size: 18px!important;
+	font-size: 18px!important;
 
 }
