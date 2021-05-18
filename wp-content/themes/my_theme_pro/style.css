@@ -757,8 +757,3 @@ h4.pt-cv-title {
 	font-size: 18px!important;
 
 }
-@font-face {
-	font-family: 'Arvo';
-	font-display: auto;
-	src:local('Arvo'),url(https://cdn.jsdelivr.net/gh/ailede/wpcontent@latest/wp-content/themes/customizr-pro/assets/shared/fonts/customizr/customizr.woff2)format('woff2');
-}
