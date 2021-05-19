@@ -354,7 +354,7 @@ hr.split {margin:0 !important;border-top:1px #5ce solid !important;}
 footer#footer #footer-widget-area {text-align:left;position:relative;}
 footer#footer #footer-widget-area div.title {font-size:16px;margin-left:0.5rem;}
 footer#footer #footer-widget-area div p {padding-left:0.5rem;}
-footer#footer #footer-widget-area div p.text {color:#bebebe;}
+footer#footer #footer-widget-area div p.text {color:#a5a5a5;}
 footer#footer #footer-widget-area div p a {font-size:15px;line-height:36px;}
 footer#footer #footer-widget-area div hr {margin-top:15px;margin-bottom:15px;width:90%;border-bottom:0px;border-top:1px #888 solid;}
 
@@ -365,7 +365,7 @@ emojis.face-with-tears-of-joy::before {content:'\01F602';}
 emojis.thumbs-up::before {content:'\01F44D';}
 emojis.loudly-crying-face::before {content:'\01F62D';}
 emojis.face-with-head-bandage::before {content:'\01F915';}
-.footer-skin-dark .footer__wrapper a{color: #bebebe!important;}
+.footer-skin-dark .footer__wrapper a{color: #a5a5a5!important;}
 #cancel-comment-reply-link, .action-link, .btn-large, .btn-more, .caps, .comment-reply-link, .czr-overlay .overlay-content .nav__container nav, .nav__menu, .post-author__wrapper figure figcaption .action-link, .post-author__wrapper figure figcaption .comment-reply-link, .post-navigation .page-numbers, .post-navigation a, .post-section-title, .sidebar .widget-title, .tax__container a, .widget_calendar caption, .widget_calendar tfoot, .widget_categories li, button, label, input, table th {text-transform:none !important;}
 
 @media screen and (min-width:1025px) and (max-width:1279px) {.tc-sidebar.right {padding-left:1.5em;} .col-md-3 {-ms-flex:0 0 28%;flex:0 0 28%;max-width:28%;} .col-md-9 {-ms-flex:0 0 72%;flex:0 0 72%;max-width:72%;}}
