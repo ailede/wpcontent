@@ -252,7 +252,7 @@ hr.split {margin:0 !important;border-top:1px #5ce solid !important;}
 .su-label i {margin-right:0.3rem;display:inline-block;}
 .su-label-red {color:#f00 !important;border:1px #f00 solid;background:transparent !important;}
 .su-label-red a {color:#f00;}
-.su-label-red:hover {color:#fff;border:1px #f00 solid;background:#f00 !important;}
+.su-label-red:hover {color:#fff;border:1px #ff0000 solid;background:#f00 !important;}
 .su-label-green {color:#008821 !important;border:1px #008821 solid;background:transparent !important;}
 .su-label-green a {color:#008821;text-decoration:none !important;}
 .su-label-green:hover {color:#fff;border:1px #008821 solid;background:#008821 !important;}
