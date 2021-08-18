@@ -641,3 +641,6 @@ table[id*="tablepress" i]{table-layout: fixed!important;}h1{text-align:left !imp
 .J_valueList {
 	padding-top:0!important
 }
+.su-heading.su-heading-align-center {
+	text-align: center;
+}
