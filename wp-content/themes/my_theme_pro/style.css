@@ -644,3 +644,7 @@ table[id*="tablepress" i]{table-layout: fixed!important;}h1{text-align:left !imp
 .su-heading.su-heading-align-center {
 	text-align: center;
 }
+#pt-cv-view-23d50fbv1c img,#pt-cv-view-c8281abjly img,#pt-cv-view-0cf35cf09o img,#pt-cv-view-f235c9fj86 img,#pt-cv-view-f1f8d64fbq img,#pt-cv-view-f295f9f0hr img,#pt-cv-view-239277e65e img,#pt-cv-view-80581e05py img,#pt-cv-view-1f381c8hkx img {
+	width:100%!important;
+	height:170px!important;
+}
