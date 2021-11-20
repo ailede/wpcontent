@@ -648,3 +648,6 @@ table[id*="tablepress" i]{table-layout: fixed!important;}h1{text-align:left !imp
 	width:100%!important;
 	height:170px!important;
 }
+.su-box-style-soft .su-box-title{
+	background-image:none!important;
+}
